@@ -1,3 +1,5 @@
 SampleFile1
 Text adaugat SFmain.
 Al doilea text adaugat pe SFmain.
+Modification in SampleFile1.txt
+Another modification.
