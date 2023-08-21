@@ -1,2 +1,3 @@
 SampleFile1
 Modification in SampleFile1.txt
+Another modification.
